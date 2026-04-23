@@ -23,14 +23,14 @@ from telegram.ext import (
 )
 
 # === BAGIAN KONFIGURASI ===
-TELEGRAM_BOT_TOKEN = "7515399798:AAGEPxRUppPEeSrc7nvGc8b9sRrXNMeos54"
-GOOGLE_API_KEY = "AIzaSyCl7-RKbPxFB7QEQtjWvb0VTR8MyuWYOUY"
-SEARCH_ENGINE_ID = "d182542e29d7344fb"
+TELEGRAM_BOT_TOKEN = ""
+GOOGLE_API_KEY = ""
+SEARCH_ENGINE_ID = ""
 
 SPREADSHEETS = {
-    "keuangan": "1PGAIXmiEjIk2fZ-bQ-sb_0BSvfDciNOc1ah_6oWISFw",
-    "kasmasuk": "1eYAzwQvtXGRY_rzXJCu44PfjWhSJ0pwTIwqHN0slr5I",
-    "kaskeluar": "1IMIg0kQQ1fGkZdvS2qdSLoVII4ZDx7aDCjXCVgxxvMw",
+    "keuangan": "",
+    "kasmasuk": "",
+    "kaskeluar": "",
 }
 
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
